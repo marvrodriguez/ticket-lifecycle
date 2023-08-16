@@ -36,6 +36,13 @@ When Help Desk Agent/Admin logs in, they can now see the tickets that are availa
 ![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/eefa0ace-858b-48dd-914c-4b81525e2ff3)
 
 
+
+### Assignment and Communication 
+
+![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/3c335086-ca26-4a84-9e54-6690039ef512)
+
+
+
 #### Working the issues:
 Working the `Mobile online banking is down` ticket that has a default priority of Normal, we are going to update it to Emergency since this is a business impacting event. Below reflects the selection of changing the priority and updating the notes: 
 
@@ -50,18 +57,18 @@ We can now see that the tickets have been updated from previous screenshot refle
 
 ![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/2d4c0188-0430-43ba-9ebd-c14273615516)
 
+How it appears on the Ticket Dashboard.
+
+![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/8bebd2d1-b8ff-4e85-a267-6ed05ad26d37)
+
+
 
 ##### Resoltuion:
-After connecting with the Sys Admin tean, we received a response letting us know that the ticket has been resolved and now reflects those comments (pictured below). 
+After connecting with the Sys Admin tean, we received a response letting us know that the ticket has been resolved and now reflects those comments 
 
-<p align="center">
-<img src="https://i.imgur.com/3q7KJ5c.png" height="65%" width="65%" alt="ticket resolved"/>
-     </p>
-     
+![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/0eb7f6d5-ae97-41f5-b414-ad8a2aa150fe)
+
+
 Now that the ticket has been resolved, it will now be reflected in the 'closed' tickets column since it reached a resolution.
 
-<p align="center">
-  <img src="https://i.imgur.com/BtPSpZs.png" height="65%" width="65%" alt="ticket marked as closed"/>
-</p>
-<b><p align="center">Well that's a wrap, now on to the next package</b></p>
-<p align="center"><b><i>"Ask yourself: How uncomfortable are you willing to become in order to reach your fullest potential?"</b></i></p>
+![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/714638e3-e06b-48d9-a3a3-aa4cd5f76272)
