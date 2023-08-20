@@ -30,20 +30,30 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ### Lifecycle Stages 
 
+<details> 
+  <summary>
+    
 #### Intake: 
+  </summary>
 When Help Desk Agent/Admin logs in, they can now see the tickets that are available that have been assigned/not assigned with a provided priority. The priority will be set by help desk agent or queue manager working the tickets. The below screen shows the `Ticket #`, `Last Updated`, `Subject`, `From` (user that created the ticket), priority and `Assigned To` (queue manager can assign the ticket, person viewing the ticket can assign it to themselves or it can be assigned to a team ).
 
 ![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/eefa0ace-858b-48dd-914c-4b81525e2ff3)
+ </details>
 
-
-
-### Assignment and Communication 
-
+<details> 
+  <summary> 
+    
+#### Assignment and Communication 
+</summary>
 ![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/3c335086-ca26-4a84-9e54-6690039ef512)
 
+</details>
 
-
+<details> 
+  <summary>
+    
 #### Working the issues:
+     </summary>
 Working the `Mobile online banking is down` ticket that has a default priority of Normal, we are going to update it to Emergency since this is a business impacting event. Below reflects the selection of changing the priority and updating the notes: 
 
 ![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/e4dcd352-4c6e-455f-b151-f8943a195ad3)
@@ -61,9 +71,13 @@ How it appears on the Ticket Dashboard.
 
 ![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/8bebd2d1-b8ff-4e85-a267-6ed05ad26d37)
 
+</details>
 
-
+<details> 
+  <summary> 
+    
 ##### Resoltuion:
+   </summary>
 After connecting with the Sys Admin tean, we received a response letting us know that the ticket has been resolved and now reflects those comments 
 
 ![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/0eb7f6d5-ae97-41f5-b414-ad8a2aa150fe)
@@ -72,3 +86,4 @@ After connecting with the Sys Admin tean, we received a response letting us know
 Now that the ticket has been resolved, it will now be reflected in the 'closed' tickets column since it reached a resolution.
 
 ![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/714638e3-e06b-48d9-a3a3-aa4cd5f76272)
+</details>
