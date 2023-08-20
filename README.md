@@ -45,15 +45,17 @@ When Help Desk Agent/Admin logs in, they can now see the tickets that are availa
     
 #### Assignment and Communication 
 </summary>
+
 ![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/3c335086-ca26-4a84-9e54-6690039ef512)
 
 </details>
 
 <details> 
   <summary>
-    
+
 #### Working the issues:
-     </summary>
+  </summary>
+     
 Working the `Mobile online banking is down` ticket that has a default priority of Normal, we are going to update it to Emergency since this is a business impacting event. Below reflects the selection of changing the priority and updating the notes: 
 
 ![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/e4dcd352-4c6e-455f-b151-f8943a195ad3)
@@ -70,13 +72,12 @@ We can now see that the tickets have been updated from previous screenshot refle
 How it appears on the Ticket Dashboard.
 
 ![image](https://github.com/marvrodriguez/ticket-lifecycle/assets/141983161/8bebd2d1-b8ff-4e85-a267-6ed05ad26d37)
-
-</details>
+ </details>
 
 <details> 
   <summary> 
     
-##### Resoltuion:
+#### Resoltuion:
    </summary>
 After connecting with the Sys Admin tean, we received a response letting us know that the ticket has been resolved and now reflects those comments 
 
